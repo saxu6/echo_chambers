@@ -1,0 +1,7 @@
+Model,Condition,Agreement,Reinforcement,Falsity,Diversity,Uncertainty,EchoIndex
+deepseek,anti_hedge,0.7143,0.6675,0.5156,0.0714,0.1319,2.3123
+deepseek,pro_hedge,0.9286,0.6542,0.6229,0.1905,0.1214,2.311
+gemini,anti_hedge,0.6429,0.6554,0.4276,0.0714,0.0612,2.295
+gemini,pro_hedge,0.7143,0.6642,0.5203,0.1905,0.1518,2.1779
+gpt_oss,anti_hedge,0.2857,0.6793,0.2289,0.0238,0.0383,2.1668
+gpt_oss,pro_hedge,0.2857,0.6822,0.1941,0.2381,0.1268,1.8292

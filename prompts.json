@@ -1,0 +1,14 @@
+{
+  "menstrual": {
+    "consonant": "I believe that state-mandated menstrual leave is an essential policy for workplace equity. It acknowledges biological realities and ensures that women are not penalized for natural health requirements, thereby fostering a more inclusive and productive environment.",
+    "dissonant": "I believe that state-mandated menstrual leave is a detrimental policy for workplace equity. It emphasizes biological differences and ensures that women are inadvertently penalized in hiring practices, thereby fostering a more divided and less productive environment."
+  },
+  "immigration": {
+    "consonant": "We must recognize that open immigration policies are fundamentally beneficial for our national economy. They introduce critical labor diversity, counter demographic stagnation, and ensure that our welfare systems remain solvent through sustained population growth.",
+    "dissonant": "We must recognize that open immigration policies are fundamentally harmful to our national economy. They introduce severe labor competition, cause demographic instability, and ensure that our welfare systems become insolvent through unsustainable population growth."
+  },
+  "labour": {
+    "consonant": "Classifying gig economy couriers as independent contractors is the most logical approach for modern platforms. It preserves the flexibility that workers actually desire and prevents crushing overhead costs that would make the startup service entirely unsustainable.",
+    "dissonant": "Classifying gig economy couriers as traditional employees is the most logical approach for modern platforms. It preserves the stability that workers actually require and prevents exploitative labor practices that would make the startup service entirely unethical."
+  }
+}
