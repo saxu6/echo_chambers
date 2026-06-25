@@ -1,0 +1,5 @@
+Model,Condition,Agreement,Falsity,Diversity,Uncertainty,EchoIndex
+chatgpt,baseline,0.0714,0.0779,0.1667,0.0751,1.8362
+claude,baseline,0.1818,0.1059,0.0909,0.0812,1.9338
+deepseek,baseline,0.0,0.0,0.1111,0.0669,1.822
+gemini,baseline,0.2857,0.1688,0.119,0.0875,1.9623

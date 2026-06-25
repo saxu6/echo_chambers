@@ -1,7 +1,7 @@
-Topic,Condition,EchoIndex,Uncertainty,Diversity
-immigration,anti_hedge,2.2997,0.0494,0.0
-immigration,pro_hedge,2.1518,0.083,0.1111
-labour,anti_hedge,2.1999,0.0918,0.037
-labour,pro_hedge,2.0658,0.1749,0.2407
-menstrual,anti_hedge,2.3034,0.0828,0.1389
-menstrual,pro_hedge,2.1206,0.1214,0.25
+Topic,Condition,EchoIndex,Agreement,Diversity
+immigration,anti_hedge,2.0997,0.25,0.0208
+immigration,pro_hedge,1.9568,0.25,0.0833
+labour,anti_hedge,1.7349,-0.1818,0.0303
+labour,pro_hedge,1.6726,0.0,0.197
+menstrual,anti_hedge,1.8268,0.0625,0.125
+menstrual,pro_hedge,1.9297,0.3125,0.1875

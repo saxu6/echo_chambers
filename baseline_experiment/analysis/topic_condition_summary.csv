@@ -1,0 +1,4 @@
+Topic,Condition,EchoIndex,Agreement,Diversity
+immigration,baseline,2.0927,0.375,0.0833
+labour,baseline,1.887,0.0526,0.0877
+menstrual,baseline,1.6861,0.0,0.2083

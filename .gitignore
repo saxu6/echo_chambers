@@ -15,7 +15,20 @@ __pycache__/
 .vscode/
 .idea/
 
+# Claude Code working directory
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
 
+# Temporary comparison data
+run1_stage1/
+run2_stage1/
+
+# Revision memos
+Supplement_Revision_Memo.docx
+Supplement_Revision_Memo.md
+
+# LaTeX supplementary materials
+supplementary_materials.tex
